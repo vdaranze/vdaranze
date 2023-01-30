@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vic de Aranzeta
 - 👀 I’m interested in culture, history, video games, and animals
-- 🌱 I’m currently learning front end engineering, html and css and digging into python 
-- 💞️ I’m looking to collaborate on climate projects and things about plants and bees, I'm also learning how to design a platformer video game
+- 🌱 I’m currently learning html, css, and digging into python 
+- 💞️ I’m looking to collaborate on things about plants, bees, and video games
 - 📫 How to reach me www.linkedin.com/in/vicdearanzeta
 
 <!---
